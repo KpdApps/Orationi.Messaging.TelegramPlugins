@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TelegramMessageRequest>
+  <ChatId>-1235674</ChatId>
+  <Message>Text</Message>
+</TelegramMessageRequest>
